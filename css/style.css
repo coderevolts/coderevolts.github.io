@@ -30,7 +30,7 @@
 }
 body {
     color: #666666;
-    background: #F6D155;
+    background: #F6D15500;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -139,7 +139,7 @@ a:focus {
         content: "";
         width: 100%;
         height: 30px;
-        background: #F6D155;
+        background: #F6D15500;
         z-index: 1;
     }
     
